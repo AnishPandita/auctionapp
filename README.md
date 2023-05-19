@@ -13,3 +13,4 @@ Quick and easy auctions.
 + View "My bids"
 + Auction resolution
 + Search for Products
+# auctionapp
